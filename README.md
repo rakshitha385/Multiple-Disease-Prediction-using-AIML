@@ -2,7 +2,7 @@
 
 ## 🏥 Project Overview
 
-This is a Multiple Disease Prediction System built using Machine Learning and deployed with Streamlit. The system allows users to predict the likelihood of various diseases based on medical input parameters. The diseases covered in this project include:
+This is a Multiple Disease Prediction System built using Machine Learning and deployed with Streamlit Cloud. The system allows users to predict the likelihood of various diseases based on medical input parameters. The diseases covered in this project include:
 
 Diabetes 🩸
 
@@ -36,7 +36,7 @@ Streamlit 🎨 (for UI and deployment)
 
 Scikit-Learn 🤖 (for machine learning models)
 
-NumPy & Pandas 📊 (for data processing)
+NumPy 📊 (for data processing)
 
 Pickle 🗄️ (for model storage and loading)
 
