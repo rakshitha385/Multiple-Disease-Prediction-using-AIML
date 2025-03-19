@@ -1,4 +1,4 @@
-# Medical Diagnosis using AI/ML 🩺
+# Medical Diagnosis System using AI/ML 🩺
 
 ## 🏥 Project Overview
 
