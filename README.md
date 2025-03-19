@@ -1,4 +1,4 @@
-# Multiple Disease Prediction using AI/ML 🩺
+# Medical Diagnosis using AI/ML 🩺
 
 ## 🏥 Project Overview
 
